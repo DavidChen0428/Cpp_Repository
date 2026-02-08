@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VScode_Myproject\\MyExample01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266AC50D-F234-4839-94FF-CB693CFAA22F}|MyExample01\\MyExample01.vcxproj|D:\\VScode_Myproject\\MyExample01\\MyExample01\\MyExample01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{266AC50D-F234-4839-94FF-CB693CFAA22F}|MyExample01\\MyExample01.vcxproj|solutionrelative:MyExample01\\MyExample01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyExample01.cpp",
+              "DocumentMoniker": "D:\\VScode_Myproject\\MyExample01\\MyExample01\\MyExample01.cpp",
+              "RelativeDocumentMoniker": "MyExample01\\MyExample01.cpp",
+              "ToolTip": "D:\\VScode_Myproject\\MyExample01\\MyExample01\\MyExample01.cpp",
+              "RelativeToolTip": "MyExample01\\MyExample01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T16:06:58.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
